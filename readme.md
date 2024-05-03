@@ -48,12 +48,6 @@ I'm a backend and game developer, passionate about IoT and creating efficient, s
 - I love exploring new tech, especially within the realm of Internet of Things (IoT).
 - Enthusiastic about both backend solutions and game development.
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GioveWasTaken&show_icons=true&theme=radical" alt="Giove's GitHub Stats">
-</p>
-
 ### 🔍 Currently Learning
 
 - **Internet of Things (IoT):** Diving deep into the connectivity of devices and systems, enhancing my skills in real-time data processing and system design.
