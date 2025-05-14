@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Giovanni and I'm creating bugs!</h2>
+<h1 align="center">Hello! I'm Giovanni</h1>
 
 ###
 
@@ -29,10 +29,14 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.paypal.com/paypalme/GioveWasTaken" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20coffee&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
+  <a href="https://t.me/GioveWasTaken" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
 ###
