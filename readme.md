@@ -1,60 +1,44 @@
-<h1 align="center">Hi 👋, I'm Giovanni</h1>
-<h3 align="center">Computer Science Undergrad</h3>
+<br clear="both">
 
-<p align="center">
-  🚀 Backend & Game Developer | 🏆 Swift Student Challenge Winner, Class of 2024
-</p>
+<h2 align="left">Hi 👋! My name is Giovanni and I'm creating bugs!</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/giovewastaken/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giovewastaken&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Giovewastaken&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="39" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="39" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="39" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="39" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="39" alt="docker logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.paypal.com/paypalme/GioveWasTaken" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20coffee&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=GioveWasTaken&style=flat-square&color=blue" alt=""/>
-</p>
+</div>
 
----
+###
 
-### 👨‍💻 About Me
+<br clear="both">
 
-I'm a backend and game developer, passionate about IoT and creating efficient, scalable systems. I enjoy the thrill of solving complex problems and exploring new technological frontiers.
+<img src="https://raw.githubusercontent.com/Giovewastaken/Giovewastaken/output/snake.svg" alt="Snake animation" />
 
-- **Contact me:** 📧 [giova.bifulco@gmail.com](mailto:giova.bifulco@gmail.com)
-- **LinkedIn:** [giove](https://www.linkedin.com/in/giovewastaken/)
-- **Discord:** Giove
-
-### 🏆 Achievements
-
-- **Swift Student Challenge Winner, Class of 2024**: Recognized for my innovative use of Swift. Learn more [here](https://developer.apple.com/swift-student-challenge/).
-- **Cisco CCST Certification**: Certified in Cisco's technology solutions.
-
-### 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Code-PHP-blue?style=flat&logo=php)
-![](https://img.shields.io/badge/Code-Swift-orange?style=flat&logo=swift)
-![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
-![](https://img.shields.io/badge/Framework-Laravel-red?style=flat&logo=laravel)
-![](https://img.shields.io/badge/Database-SQL-orange?style=flat&logo=sql)
-![](https://img.shields.io/badge/Code-Java-blue?style=flat&logo=java)
-![](https://img.shields.io/badge/Game_Development-black?style=flat&logo=unity)
-
-### 📫 How to reach me
-
-- 📧 [Email](mailto:giova.bifulco@gmail.com)
-- 💬 [LinkedIn](https://www.linkedin.com/in/giovewastaken/)
-- 🎮 [Discord](https://discordapp.com/users/Giove)
-
-### 😄 Fun Facts
-
-- I love exploring new tech, especially within the realm of Internet of Things (IoT).
-- Enthusiastic about both backend solutions and game development.
-
-### 🔍 Currently Learning
-
-- **Internet of Things (IoT):** Diving deep into the connectivity of devices and systems, enhancing my skills in real-time data processing and system design.
-- **Advanced Game Development Techniques**
-
----
-
-<p align="center">
-  🌐 Visit my <a href="https://github.com/GioveWasTaken">GitHub profile</a> to see my projects and contributions!
-</p>
+###
